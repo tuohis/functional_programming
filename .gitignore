@@ -1,0 +1,9 @@
+**/lib_managed
+.project
+.cache
+.classpath
+.settings
+.worksheet
+project
+target
+build.sbt
